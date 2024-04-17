@@ -25,6 +25,7 @@ You are welcome to use this dataset for various purposes, including but not limi
 
 ## Generating Your Own Dataset
 
+https://medium.com/@georg.vetter.privat/how-to-build-a-typo-generator-from-scratch-in-python-ace485aac18b
 You can replicate the process used to create this dataset by referring to the code available in the [typo_generator repository](https://github.com/GeorgVetterGit/typo_generator/tree/main). The steps generally involve:
 
 1. Preparing a corpus of text data (e.g., 'big.txt').
